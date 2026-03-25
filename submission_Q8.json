@@ -1,6 +1,6 @@
 {
   "prompt": "Cinematic, photorealistic wide-angle landscape photography. A massive, rugged mountain face bathed in the golden hour light of late afternoon. The structural contradiction: The macro-outline and overall mass of the entire mountain distinctly and undeniably slopes downward from the top-left to the bottom-right of the frame. However, the surface of the mountain is densely terraced with dozens of clearly visible, worn dirt footpaths. Every single individual footpath unmistakably inclines steeply upward from left to right. The viewer's eye is simultaneously pulled downward by the mountain's global descent and upward by every local trail's ascent. The spatial geometry is mathematically impossible yet rendered with absolute, hyper-realistic physical plausibility. Mood: quiet, eerie wrongness, uncanny stillness. Color palette: warm amber sunlight, deep forest greens, hazy blue distance. No text, no numbers, no arrows, no chart elements, no human figures, no literal data representation.",
   "model": "DALL-E 3 via OpenAI",
-  "concept": "Simpson's Paradox",
+  "paradox": "Simpson's Paradox",
   "visual_logic": "Maps the paradox's mathematical core into impossible topography. Local upward paths represent subgroup regressions, while the downward mountain is the combined aggregate regression. This structure guarantees expert recognition while inducing an uncanny sense of spatial wrongness."
 }
