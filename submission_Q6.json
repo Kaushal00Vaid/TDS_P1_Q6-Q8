@@ -1,0 +1,7 @@
+{
+  "prompt": "Close-up editorial photograph in a high-end tailor's atelier. A bespoke suit jacket hangs on a tailor's dummy, covered in an extraordinary and absurd number of hand-stitched custom seams, elaborate darts, and precise tucks tracking every single microscopic contour and asymmetry of one specific body. The craftsmanship is obsessive, capturing every tiny flaw of the original wearer. On a second dummy right beside it, an attempt to put the exact same jacket on has failed completely — the shape is far too rigid and specific, the custom work pulling, tearing, and puckering violently against a standard body shape. It fits no one else. Warm, dusty atelier window light. Editorial fashion photography. No diagrams, no graphs, no text, no labels, no mathematical notation, no equations, no floating annotations, no non-physical elements.",
+  "model": "DALL-E 3 via OpenAI",
+  "concept": "Overfitting",
+  "metaphor": "A bespoke suit over-tailored with complex seams to map one body's exact micro-contours, resulting in a rigid garment that fits no one else, mirroring models failing on new data.",
+  "publish_email": true
+}
